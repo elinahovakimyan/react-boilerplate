@@ -6,6 +6,13 @@
 - BrowserRouter used and integrated with the app
 - React 16 and Webpack 4 used!
 
+## To start using:
+`git clone https://github.com/elinahovakimyan/react-boilerplate.git`
+
+`cd react-boilerplate`
+
+`npm install`
+
 ### For development run `npm run dev`
 
 ### For production run `npm start`
